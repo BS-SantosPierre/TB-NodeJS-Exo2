@@ -1,0 +1,15 @@
+{
+  "name": "exo02-filesystem",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "echo \"Run command : npm run <exo0X>",
+    "exo01": "node exo01/index.js",
+    "exo02": "node exo02/index.js",
+    "exo03": "node exo03/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierre",
+  "license": "ISC"
+}
